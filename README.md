@@ -1,6 +1,6 @@
 # Hi 👋, I'm ANKIT GUPTA 
 
-### Final Year CSE Student | MERN Stack Developer | Backend Engineering Enthusiast
+### Final Year CSE Student | MERN Stack Developer | Backend Engineering Enthusiast 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsankitgupta70&label=Profile views&color=0e75b6&style=flat" alt="itsankitgupta70" /> </p>
 
